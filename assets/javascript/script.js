@@ -1,12 +1,4 @@
 
-
-// var timeEl = document.querySelector(".time");
-
-// // Selects element by id
-// var timeIdE1 = document.getElementById("time");
-
-
-
 setInterval(function(){
 
 // var timer = new Date(); javascript
